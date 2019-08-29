@@ -1,6 +1,7 @@
-
+theme: jekyll-theme-cayman
 title: sea520
 SEOTitle: sea520
 url: "https://douglasshuai.github.io/sea.github.io"
 
-theme: jekyll-theme-cayman
+
+sidebar: true
