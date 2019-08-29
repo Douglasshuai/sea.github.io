@@ -1,9 +1,9 @@
-theme: jekyll-theme-minimal
-title: sea520
-SEOTitle: sea520
-url: "https://douglasshuai.github.io/sea.github.io"
+theme: jekyll-theme-minimal    
+title: sea520    
+SEOTitle: sea520    
+url: "https://douglasshuai.github.io/sea.github.io"    
 
 
-sidebar: true
+sidebar: true    
 
-zhihu_username: sea520
+zhihu_username: sea520   
